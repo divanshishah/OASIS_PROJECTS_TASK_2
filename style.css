@@ -1,0 +1,44 @@
+body{
+   background-color: black;
+   width: 100%;
+}
+.main{
+    background-color: black;
+    height: 100%;
+}
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: white;
+}
+.image img{
+    padding: 20px;
+    width: 100%;
+    border-radius: 5px;
+}
+.about h1{
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 10px;
+}
+.about p{
+    display: inline-block;
+    color: white;
+    width: 50%;
+}
+.about img{
+    padding: 5px;
+    display: inline-block;
+    width: 20%;
+}
+.ach h1{
+    color: white;
+}
+.ach p{
+   color: white;
+}
+.ach img{
+    width:20%
+}
